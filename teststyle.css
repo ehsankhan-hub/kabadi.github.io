@@ -236,7 +236,7 @@ box-shadow: 0 0 20px 0px rebeccapurple;
  .footer{
   position: sticky;
   bottom: 0;
-   width: 100%;
+   width: 1240px;;
    text-align: center;
    padding: 10px 0;
    border-radius: 0px;
