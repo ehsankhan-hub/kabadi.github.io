@@ -97,9 +97,9 @@ color: black;
 nav .fa{
 display: none;
   }
-  @media (max-width:500px) {
+  @media (max-width:600px) {
     .text-box h1{
-      font-size: 10px;
+      font-size: 30px;
     }  
     .nav-links ul li{
       display: block;
