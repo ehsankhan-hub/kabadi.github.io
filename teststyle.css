@@ -128,7 +128,7 @@ display: none;
   }
   /*----courses-----*/
 .course{
- width: 100%;
+ width: 80%;
  margin: auto;
  text-align: center;
  padding-top: 40px;
@@ -147,6 +147,7 @@ display: none;
   .row{
     margin-top: 14px;
     display: flex;
+    padding:20px;
     justify-content: space-between;
   }
   .course-col{
